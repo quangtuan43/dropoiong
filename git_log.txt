@@ -31,3 +31,4 @@
 2025-04-04: Patching vulnerabilities 🛡️
 2025-04-05: Patching vulnerabilities 🛡️
 2025-04-06: Better exception handling ⚠️
+2025-04-07: Fixing logs verbosity 📊
