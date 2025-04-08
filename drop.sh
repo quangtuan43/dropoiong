@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Start date: February 4, 2025
-START_DATE="2025-01-04"
+START_DATE="2025-1-04"
 # End date: February 28, 2025
-END_DATE="2025-01-28"
+END_DATE="2025-4-8"
 
 # Convert start date to seconds since epoch
 CURRENT_DATE=$(date -d "$START_DATE" +%s)
