@@ -22,3 +22,4 @@
 2025-04-30: Squashed a pesky bug 🐞
 2025-05-01: Improved error handling 🔍
 2025-05-02: Added new features 🌟
+2025-05-03: Added new features 🌟
