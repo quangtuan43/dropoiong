@@ -39,3 +39,4 @@
 2025-05-17: Refactoring some code ✨
 2025-05-18: Updated data for today 📅
 2025-05-19: Bringing more stability 🔧
+2025-05-20: Updated config files 🛠️
